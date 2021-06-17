@@ -1,0 +1,5 @@
+C:\Users\Aizen\source\repos\Tuto_Exo\obj\Debug\net5.0\Tuto_Exo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen\source\repos\Tuto_Exo\obj\Debug\net5.0\Tuto_Exo.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\Tuto_Exo\obj\Debug\net5.0\Tuto_Exo.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\Tuto_Exo\obj\Debug\net5.0\Tuto_Exo.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\Tuto_Exo\obj\Debug\net5.0\Tuto_Exo.csproj.AssemblyReference.cache
