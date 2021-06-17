@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Init_WinForm", "Init_WinForm.csproj", "{B78B4D5A-EF99-4C13-9362-1770B37AFBF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonjour", "..\Bonjour\Bonjour.csproj", "{AE490CEA-6D3C-4DA0-AFCC-37DD0DC34ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P_Devin", "..\P_Devin\P_Devin.csproj", "{BB83D718-49E8-4D14-9C75-3747B8F17798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78B4D5A-EF99-4C13-9362-1770B37AFBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78B4D5A-EF99-4C13-9362-1770B37AFBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78B4D5A-EF99-4C13-9362-1770B37AFBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78B4D5A-EF99-4C13-9362-1770B37AFBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE490CEA-6D3C-4DA0-AFCC-37DD0DC34ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE490CEA-6D3C-4DA0-AFCC-37DD0DC34ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE490CEA-6D3C-4DA0-AFCC-37DD0DC34ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE490CEA-6D3C-4DA0-AFCC-37DD0DC34ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB83D718-49E8-4D14-9C75-3747B8F17798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB83D718-49E8-4D14-9C75-3747B8F17798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB83D718-49E8-4D14-9C75-3747B8F17798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB83D718-49E8-4D14-9C75-3747B8F17798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F06C09-FEB6-4574-8839-0489E7B6BDB1}
+	EndGlobalSection
+EndGlobal
