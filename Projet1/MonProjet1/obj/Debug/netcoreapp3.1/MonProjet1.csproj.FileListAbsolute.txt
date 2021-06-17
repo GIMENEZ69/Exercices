@@ -1,0 +1,13 @@
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\bin\Debug\netcoreapp3.1\MonProjet1.exe
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\bin\Debug\netcoreapp3.1\MonProjet1.deps.json
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\bin\Debug\netcoreapp3.1\MonProjet1.runtimeconfig.json
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\bin\Debug\netcoreapp3.1\MonProjet1.runtimeconfig.dev.json
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\bin\Debug\netcoreapp3.1\MonProjet1.dll
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\bin\Debug\netcoreapp3.1\MonProjet1.pdb
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\obj\Debug\netcoreapp3.1\MonProjet1.csprojAssemblyReference.cache
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\obj\Debug\netcoreapp3.1\MonProjet1.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\obj\Debug\netcoreapp3.1\MonProjet1.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\obj\Debug\netcoreapp3.1\MonProjet1.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\obj\Debug\netcoreapp3.1\MonProjet1.dll
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\obj\Debug\netcoreapp3.1\MonProjet1.pdb
+C:\Users\Aizen\source\repos\Projet1\MonProjet1\obj\Debug\netcoreapp3.1\MonProjet1.genruntimeconfig.cache
