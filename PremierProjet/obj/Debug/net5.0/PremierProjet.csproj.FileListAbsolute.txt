@@ -1,0 +1,16 @@
+C:\Users\Aizen\source\repos\PremierProjet\bin\Debug\net5.0\PremierProjet.exe
+C:\Users\Aizen\source\repos\PremierProjet\bin\Debug\net5.0\PremierProjet.deps.json
+C:\Users\Aizen\source\repos\PremierProjet\bin\Debug\net5.0\PremierProjet.runtimeconfig.json
+C:\Users\Aizen\source\repos\PremierProjet\bin\Debug\net5.0\PremierProjet.runtimeconfig.dev.json
+C:\Users\Aizen\source\repos\PremierProjet\bin\Debug\net5.0\PremierProjet.dll
+C:\Users\Aizen\source\repos\PremierProjet\bin\Debug\net5.0\ref\PremierProjet.dll
+C:\Users\Aizen\source\repos\PremierProjet\bin\Debug\net5.0\PremierProjet.pdb
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\PremierProjet.csproj.AssemblyReference.cache
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\PremierProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\PremierProjet.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\PremierProjet.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\PremierProjet.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\PremierProjet.dll
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\ref\PremierProjet.dll
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\PremierProjet.pdb
+C:\Users\Aizen\source\repos\PremierProjet\obj\Debug\net5.0\PremierProjet.genruntimeconfig.cache
