@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tuto_Vehicule/1.0.0": {
+        "runtime": {
+          "Tuto_Vehicule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tuto_Vehicule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
