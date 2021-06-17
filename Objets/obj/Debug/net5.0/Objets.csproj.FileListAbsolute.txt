@@ -1,0 +1,16 @@
+C:\Users\Aizen\source\repos\Objets\bin\Debug\net5.0\Objets.exe
+C:\Users\Aizen\source\repos\Objets\bin\Debug\net5.0\Objets.deps.json
+C:\Users\Aizen\source\repos\Objets\bin\Debug\net5.0\Objets.runtimeconfig.json
+C:\Users\Aizen\source\repos\Objets\bin\Debug\net5.0\Objets.runtimeconfig.dev.json
+C:\Users\Aizen\source\repos\Objets\bin\Debug\net5.0\Objets.dll
+C:\Users\Aizen\source\repos\Objets\bin\Debug\net5.0\ref\Objets.dll
+C:\Users\Aizen\source\repos\Objets\bin\Debug\net5.0\Objets.pdb
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\Objets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\Objets.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\Objets.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\Objets.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\Objets.dll
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\ref\Objets.dll
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\Objets.pdb
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\Objets.genruntimeconfig.cache
+C:\Users\Aizen\source\repos\Objets\obj\Debug\net5.0\Objets.csproj.AssemblyReference.cache
