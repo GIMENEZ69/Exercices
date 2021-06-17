@@ -1,0 +1,14 @@
+C:\Users\Aizen\source\repos\GestStagiare\bin\Debug\GestStagiare.exe.config
+C:\Users\Aizen\source\repos\GestStagiare\bin\Debug\GestStagiare.exe
+C:\Users\Aizen\source\repos\GestStagiare\bin\Debug\GestStagiare.pdb
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.csproj.AssemblyReference.cache
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.FCreationStag.resources
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.FMenu.resources
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.Properties.Resources.resources
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.csproj.GenerateResource.cache
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.exe
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.pdb
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.F_Affiche.resources
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.F_Choix.resources
+C:\Users\Aizen\source\repos\GestStagiare\obj\Debug\GestStagiare.F_Affiche_Auto.resources
