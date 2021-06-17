@@ -1,0 +1,16 @@
+C:\Users\Aizen\source\repos\vehiculeFini\bin\Debug\net5.0\vehiculeFini.exe
+C:\Users\Aizen\source\repos\vehiculeFini\bin\Debug\net5.0\vehiculeFini.deps.json
+C:\Users\Aizen\source\repos\vehiculeFini\bin\Debug\net5.0\vehiculeFini.runtimeconfig.json
+C:\Users\Aizen\source\repos\vehiculeFini\bin\Debug\net5.0\vehiculeFini.runtimeconfig.dev.json
+C:\Users\Aizen\source\repos\vehiculeFini\bin\Debug\net5.0\vehiculeFini.dll
+C:\Users\Aizen\source\repos\vehiculeFini\bin\Debug\net5.0\ref\vehiculeFini.dll
+C:\Users\Aizen\source\repos\vehiculeFini\bin\Debug\net5.0\vehiculeFini.pdb
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\vehiculeFini.csproj.AssemblyReference.cache
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\vehiculeFini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\vehiculeFini.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\vehiculeFini.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\vehiculeFini.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\vehiculeFini.dll
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\ref\vehiculeFini.dll
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\vehiculeFini.pdb
+C:\Users\Aizen\source\repos\vehiculeFini\obj\Debug\net5.0\vehiculeFini.genruntimeconfig.cache
