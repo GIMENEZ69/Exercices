@@ -1,0 +1,10 @@
+C:\Users\Aizen\source\repos\Exo_Xavier\bin\Debug\Exo_Xavier.exe.config
+C:\Users\Aizen\source\repos\Exo_Xavier\bin\Debug\Exo_Xavier.exe
+C:\Users\Aizen\source\repos\Exo_Xavier\bin\Debug\Exo_Xavier.pdb
+C:\Users\Aizen\source\repos\Exo_Xavier\obj\Debug\Exo_Xavier.csproj.AssemblyReference.cache
+C:\Users\Aizen\source\repos\Exo_Xavier\obj\Debug\Exo_Xavier.Form1.resources
+C:\Users\Aizen\source\repos\Exo_Xavier\obj\Debug\Exo_Xavier.Properties.Resources.resources
+C:\Users\Aizen\source\repos\Exo_Xavier\obj\Debug\Exo_Xavier.csproj.GenerateResource.cache
+C:\Users\Aizen\source\repos\Exo_Xavier\obj\Debug\Exo_Xavier.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\Exo_Xavier\obj\Debug\Exo_Xavier.exe
+C:\Users\Aizen\source\repos\Exo_Xavier\obj\Debug\Exo_Xavier.pdb
