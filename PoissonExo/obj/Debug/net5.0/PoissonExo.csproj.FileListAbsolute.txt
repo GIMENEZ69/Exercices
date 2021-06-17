@@ -1,0 +1,16 @@
+C:\Users\Aizen\source\repos\PoissonExo\bin\Debug\net5.0\PoissonExo.exe
+C:\Users\Aizen\source\repos\PoissonExo\bin\Debug\net5.0\PoissonExo.deps.json
+C:\Users\Aizen\source\repos\PoissonExo\bin\Debug\net5.0\PoissonExo.runtimeconfig.json
+C:\Users\Aizen\source\repos\PoissonExo\bin\Debug\net5.0\PoissonExo.runtimeconfig.dev.json
+C:\Users\Aizen\source\repos\PoissonExo\bin\Debug\net5.0\PoissonExo.dll
+C:\Users\Aizen\source\repos\PoissonExo\bin\Debug\net5.0\ref\PoissonExo.dll
+C:\Users\Aizen\source\repos\PoissonExo\bin\Debug\net5.0\PoissonExo.pdb
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\PoissonExo.csproj.AssemblyReference.cache
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\PoissonExo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\PoissonExo.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\PoissonExo.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\PoissonExo.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\PoissonExo.dll
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\ref\PoissonExo.dll
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\PoissonExo.pdb
+C:\Users\Aizen\source\repos\PoissonExo\obj\Debug\net5.0\PoissonExo.genruntimeconfig.cache
