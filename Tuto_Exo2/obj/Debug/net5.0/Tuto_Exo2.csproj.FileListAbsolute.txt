@@ -1,0 +1,11 @@
+C:\Users\Aizen\source\repos\Tuto_Exo2\obj\Debug\net5.0\Tuto_Exo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen\source\repos\Tuto_Exo2\obj\Debug\net5.0\Tuto_Exo2.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\Tuto_Exo2\obj\Debug\net5.0\Tuto_Exo2.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\Tuto_Exo2\obj\Debug\net5.0\Tuto_Exo2.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\Tuto_Exo2\bin\Debug\net5.0\Tuto_Exo2.deps.json
+C:\Users\Aizen\source\repos\Tuto_Exo2\bin\Debug\net5.0\Tuto_Exo2.dll
+C:\Users\Aizen\source\repos\Tuto_Exo2\bin\Debug\net5.0\ref\Tuto_Exo2.dll
+C:\Users\Aizen\source\repos\Tuto_Exo2\bin\Debug\net5.0\Tuto_Exo2.pdb
+C:\Users\Aizen\source\repos\Tuto_Exo2\obj\Debug\net5.0\Tuto_Exo2.dll
+C:\Users\Aizen\source\repos\Tuto_Exo2\obj\Debug\net5.0\ref\Tuto_Exo2.dll
+C:\Users\Aizen\source\repos\Tuto_Exo2\obj\Debug\net5.0\Tuto_Exo2.pdb
