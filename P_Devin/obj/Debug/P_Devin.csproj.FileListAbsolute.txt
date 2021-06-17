@@ -1,0 +1,10 @@
+C:\Users\Aizen\source\repos\P_Devin\bin\Debug\P_Devin.exe.config
+C:\Users\Aizen\source\repos\P_Devin\bin\Debug\P_Devin.exe
+C:\Users\Aizen\source\repos\P_Devin\bin\Debug\P_Devin.pdb
+C:\Users\Aizen\source\repos\P_Devin\obj\Debug\P_Devin.csproj.AssemblyReference.cache
+C:\Users\Aizen\source\repos\P_Devin\obj\Debug\P_Devin.Form1.resources
+C:\Users\Aizen\source\repos\P_Devin\obj\Debug\P_Devin.Properties.Resources.resources
+C:\Users\Aizen\source\repos\P_Devin\obj\Debug\P_Devin.csproj.GenerateResource.cache
+C:\Users\Aizen\source\repos\P_Devin\obj\Debug\P_Devin.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\P_Devin\obj\Debug\P_Devin.exe
+C:\Users\Aizen\source\repos\P_Devin\obj\Debug\P_Devin.pdb
